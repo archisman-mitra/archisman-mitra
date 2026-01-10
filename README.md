@@ -1,26 +1,28 @@
 # 💫 About Me:
 ## 🔭 I’m currently working on<br><br>
-#### Frontend projects using HTML, CSS, JavaScript<br><br>Strengthening DSA & core CS concepts<br><br>Personal projects to build a solid GitHub portfolio<br><br>
+#### Frontend projects using HTML, CSS, JavaScript<br>
+#### Strengthening DSA & core CS concepts<br>
+#### Personal projects to build a solid GitHub portfolio<br><br>
 ---
 ## 🤝 I’m looking to collaborate on<br><br>
-#### Beginner to intermediate web development projects<br><br>
-#### Open-source projects related to CS fundamentals / data<br><br>
+#### Beginner to intermediate web development projects<br>
+#### Open-source projects related to CS fundamentals / data<br>
 #### Learning-focused hackathon or mini-project teams<br><br>
 ---
 ## 🆘 I’m looking for help with<br><br>
-#### Writing clean, scalable JavaScript<br><br>Backend fundamentals (Django / APIs)<br><br>
+#### Writing clean, scalable JavaScript<br><br>Backend fundamentals (Django / APIs)<br>
 #### Best practices for project structure & documentation<br><br>
 ---
 ## 🌱 I’m currently learning<br><br>
-#### Data Structures & Algorithms<br><br>
-#### Backend development (Django basics)<br><br>
-#### Databases (SQL)<br><br>
+#### Data Structures & Algorithms<br>
+#### Backend development (Django basics)<br>
+#### Databases (SQL)<br>
 #### Core concepts of Data Science & AI<br><br>
 ---
 ## 💬 Ask me about<br><br>
-#### Python & Java basics<br><br>
-#### Frontend development<br><br>
-#### DSA preparation strategies<br><br>
+#### Python & Java basics<br>
+#### Frontend development<br>
+#### DSA preparation strategies<br>
 #### Getting started with GitHub & projects<br><br>
 ---
 ## ⚡ Fun fact<br><br>
