@@ -1,8 +1,28 @@
-## 💫 About Me:
-🔭 I’m currently working on<br><br>Frontend projects using HTML, CSS, JavaScript<br><br>Strengthening DSA & core CS concepts<br><br>Personal projects to build a solid GitHub portfolio<br><br>🤝 I’m looking to collaborate on<br><br>Beginner to intermediate web development projects<br><br>Open-source projects related to CS fundamentals / data<br><br>Learning-focused hackathon or mini-project teams<br><br>🆘 I’m looking for help with<br><br>Writing clean, scalable JavaScript<br><br>Backend fundamentals (Django / APIs)<br><br>Best practices for project structure & documentation<br><br>🌱 I’m currently learning<br><br>Data Structures & Algorithms<br><br>Backend development (Django basics)<br><br>Databases (SQL)<br><br>Core concepts of Data Science & AI<br><br>💬 Ask me about<br><br>Python & Java basics<br><br>Frontend development<br><br>DSA preparation strategies<br><br>Getting started with GitHub & projects<br><br>⚡ Fun fact<br><br>I enjoy breaking down complex concepts into simple logic—and I believe projects teach more than textbooks 🚀
+# 💫 About Me:
+## 🔭 I’m currently working on<br><br>
+Frontend projects using HTML, CSS, JavaScript<br><br>Strengthening DSA & core CS concepts<br><br>Personal projects to build a solid GitHub portfolio<br><br>
+## 🤝 I’m looking to collaborate on<br><br>
+Beginner to intermediate web development projects<br><br>
+Open-source projects related to CS fundamentals / data<br><br>
+Learning-focused hackathon or mini-project teams<br><br>
+## 🆘 I’m looking for help with<br><br>
+Writing clean, scalable JavaScript<br><br>Backend fundamentals (Django / APIs)<br><br>
+Best practices for project structure & documentation<br><br>
+## 🌱 I’m currently learning<br><br>
+Data Structures & Algorithms<br><br>
+Backend development (Django basics)<br><br>
+Databases (SQL)<br><br>
+Core concepts of Data Science & AI<br><br>
+## 💬 Ask me about<br><br>
+Python & Java basics<br><br>
+Frontend development<br><br>
+DSA preparation strategies<br><br>
+Getting started with GitHub & projects<br><br>
+## ⚡ Fun fact<br><br>
+I enjoy breaking down complex concepts into simple logic—and I believe projects teach more than textbooks 🚀
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/its_archisman.mitra?igsh=ZjIwNzlpaXY2OXll) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/archisman-mitra?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 # 💻 Tech Stack:
