@@ -9,10 +9,6 @@
 #### Open-source projects related to CS fundamentals / data<br>
 #### Learning-focused hackathon or mini-project teams<br><br>
 ---
-## 🆘 I’m looking for help with<br><br>
-#### Writing clean, scalable JavaScript<br><br>Backend fundamentals (Django / APIs)<br>
-#### Best practices for project structure & documentation<br><br>
----
 ## 🌱 I’m currently learning<br><br>
 #### Data Structures & Algorithms<br>
 #### Backend development (Django basics)<br>
