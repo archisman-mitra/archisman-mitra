@@ -62,7 +62,7 @@ I enjoy breaking down complex ideas into simple logic—and I strongly believe t
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/archisman-mitra)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat\&logo=instagram\&logoColor=white)](https://www.instagram.com/its_archisman.mitra)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat\&logo=instagram\&logoColor=white)](https://www.instagram.com/im_archisman.m)
 
 ---
 
