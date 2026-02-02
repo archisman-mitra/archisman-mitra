@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Archisman Mitra
 
-🎓 **B.Tech (ECS)** <!--| 📊 **IIT Madras BS in Data Science (Foundation)**--> <br>
+🎓 **B.Tech (ECS)**at **Narula Institute of Technology**<!--| 📊 **IIT Madras BS in Data Science (Foundation)**--> <br>
 💻 Aspiring **Software Developer / Data Science Enthusiast**
 🌱 Passionate about building projects that turn theory into real-world solutions
 
