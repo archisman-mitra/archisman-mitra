@@ -87,11 +87,11 @@ NumPy | Pandas | Matplotlib | Power BI
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=archisman_mitra\&show_icons=true\&theme=radical\&hide_border=false\&count_private=true)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=archisman_mitra\&show_icons=true\&theme=radical\&hide_border=false\&count_private=true)-->
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=archisman_mitra\&theme=radical\&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archisman_mitra\&layout=compact\&theme=radical\&hide_border=false)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archisman_mitra\&layout=compact\&theme=radical\&hide_border=false)-->
 
 ---
 
