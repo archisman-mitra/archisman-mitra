@@ -1,108 +1,67 @@
-# 👋 Hi, I'm Archisman Mitra
+<div align="center">
 
-🎓 **B.Tech (ECS)** at **Narula Institute of Technology**<!--| 📊 **IIT Madras BS in Data Science (Foundation)**--> <br>
-💻 Aspiring **Software Developer | Data Science Enthusiast** <br>
-🌱 Passionate about building projects that turn theory into real-world solutions
+# Archisman Mitra
 
----
+**B.Tech (ECS) · Narula Institute of Technology**
 
-## 🚀 About Me
+Building things that matter — from AI recruitment platforms to blockchain smart contracts.
 
-I am a motivated undergraduate student with a strong interest in **web development, data structures, and data-driven technologies**. I enjoy learning by building projects, contributing to collaborative work, and simplifying complex concepts into clean, logical solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archisman-mitra)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/im_archisman.m)
+![Profile Views](https://komarev.com/ghpvc/?username=archismanmitra&style=flat-square&color=0A66C2)
 
-I am currently focused on strengthening my **core computer science foundations** while developing **full-stack and data-oriented projects** for my GitHub portfolio.
-
----
-
-## 🔭 What I’m Currently Working On
-
-* Frontend projects using **HTML, CSS, JavaScript**
-* Improving **Data Structures & Algorithms** problem-solving skills
-* Personal and academic projects to build a **strong GitHub portfolio**
-* Exploring backend fundamentals with **Django**
+</div>
 
 ---
 
-## 🌱 What I’m Currently Learning
+## About
 
-* **Data Structures & Algorithms (DSA)**
-* **Backend Development** with Django
-* **Databases**: SQL & NoSQL
-* Core concepts of **Data Science & Artificial Intelligence**
+I'm a software developer focused on full-stack development and AI-powered applications. I learn by building — from voice-based recruitment systems to trustless inheritance contracts on Stellar. Currently strengthening my CS foundations through competitive problem solving and hands-on projects.
 
 ---
 
-## 🤝 Open to Collaboration
+## Featured Projects
 
-I’m interested in collaborating on:
+### 🎙 HireFlow AI · [Smart India Hackathon]
+> AI-powered voice recruitment platform built for enterprise-scale hiring
 
-* Beginner to intermediate **web development projects**
-* **Open-source projects** related to CS fundamentals or data
-* Learning-focused **hackathons, mini-projects, or study groups**
+- Live interview simulation with **Google Gemini** multi-modal AI
+- Built with **Next.js 14**, Supabase, and real-time streaming responses
+- Role: Lead developer — architected the full-stack pipeline and AI integration
 
-If you’re building something meaningful and learning-driven, I’d be happy to connect!
+### 📜 Stellar Will & Testament · [Blockchain Project]
+> Trustless inheritance system deployed on Stellar testnet
 
----
-
-## 💬 You Can Ask Me About
-
-* Python & Java fundamentals
-* Frontend development basics
-* DSA preparation strategies
-* Getting started with **Git, GitHub, and projects**
+- Smart contract in **Rust (Soroban SDK)** — handles beneficiary shares, liveness check-ins, and time-locked transfers
+- Fully non-custodial; no intermediary required
 
 ---
 
-## ⚡ Fun Fact
+## Tech Stack
 
-I enjoy breaking down complex ideas into simple logic—and I strongly believe that **projects teach more than textbooks** 🚀
+```
+Languages      C · C++ · Java · Python · JavaScript
+Frontend       React · Next.js · HTML5 · CSS3 · Tailwind · shadcn/ui
+Backend        Node.js · Express · Django
+Databases      MySQL · MongoDB · Supabase · SQLite
+AI / Data      NumPy · Pandas · Matplotlib · Google Gemini API · Anthropic API
+Blockchain     Rust · Soroban SDK · Stellar
+Tools          Git · GitHub · Power BI · Framer Motion
+```
 
----
 
-## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/archisman-mitra)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat\&logo=instagram\&logoColor=white)](https://www.instagram.com/im_archisman.m)
+## Currently
 
----
-
-## 💻 Tech Stack
-
-**Languages:**
-C | C++ | Java | Python | JavaScript
-
-**Frontend:**
-HTML5 | CSS3 | React
-
-**Backend:**
-Django | Node.js | Express.js
-
-**Databases:**
-MySQL | SQLite | MongoDB
-
-**Data & Analytics:**
-NumPy | Pandas | Matplotlib | Power BI
+- 🔭 Building full-stack AI projects for my portfolio
+- 📚 Grinding DSA — Java / LeetCode
+- 🌱 Exploring backend architecture with Django and REST APIs
+- 🤝 Open to collaborations on web dev, AI, or open-source projects
 
 ---
 
-## 📊 GitHub Statistics
+<div align="center">
 
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=archisman_mitra\&show_icons=true\&theme=radical\&hide_border=false\&count_private=true)-->
+*Open to internships and collaborations · [Let's connect](https://www.linkedin.com/in/archisman-mitra)*
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=archisman_mitra\&theme=radical\&hide_border=false)
-
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archisman_mitra\&layout=compact\&theme=radical\&hide_border=false)-->
-
----
-
-## ✍️ Developer Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
-
----
-
-<!--![Profile Views](https://visitcount.itsvg.in/api?id=archisman_mitra\&icon=0\&color=0)-->
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+</div>
