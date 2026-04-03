@@ -16,7 +16,7 @@ Building things that matter — from AI recruitment platforms to blockchain smar
 
 ## About
 
-I'm a software developer focused on full-stack development and AI-powered applications. I learn by building — from voice-based recruitment systems to trustless inheritance contracts on Stellar. Currently strengthening my CS foundations through competitive problem solving and hands-on projects.
+I'm an aspiring software developer focused on full-stack development and AI-powered applications. I learn by building — from voice-based recruitment systems to trustless inheritance contracts on Stellar. Currently strengthening my CS foundations through competitive problem solving and hands-on projects.
 
 ---
 
