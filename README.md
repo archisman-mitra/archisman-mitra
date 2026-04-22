@@ -24,7 +24,7 @@ Aspiring software developer with a focus on full stack development and AI driven
 
 ```
 Languages      C · C++ · Java · Python · JavaScript
-Frontend       React · Next.js · HTML5 · CSS3 · Tailwind · 
+Frontend       React · Next.js · HTML5 · CSS3 · Tailwind
 Backend        Node.js · Express · Django
 Databases      MySQL · MongoDB · Supabase · SQLite
 AI / Data      NumPy · Pandas · Matplotlib · Scikit-learn
