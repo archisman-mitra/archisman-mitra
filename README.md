@@ -29,6 +29,7 @@ Backend        Node.js · Express · Django
 Databases      MySQL · MongoDB · Supabase · SQLite
 AI / Data      NumPy · Pandas · Matplotlib · Scikit-learn
 Blockchain     Rust · Soroban SDK · Stellar
+Electronics    Arduino · ESP32    
 Tools          Git · GitHub · Power BI · VS Code
 ```
 
