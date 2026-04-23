@@ -4,7 +4,7 @@
 
 **B.Tech (ECS) · Narula Institute of Technology**
 
-Code is how I think. Building is how I learn. Engineer by curiosity, developer by choice.
+Code is how I think. Building is how I learn. \n Engineer by curiosity, developer by choice.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archisman-mitra)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/im_archisman.m)
