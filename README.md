@@ -1,52 +1,139 @@
 <div align="center">
 
-# Archisman Mitra
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Archisman%20Mitra&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Engineer%20by%20curiosity%20%E2%80%94%20Developer%20by%20choice&descAlignY=58&descSize=18" width="100%" />
 
-**B.Tech (ECS) · Narula Institute of Technology**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Code+is+how+I+think.+Building+is+how+I+learn.;Full+Stack+Dev+%7C+DSA+Grinder+%7C+Open+Source+Curious)](https://git.io/typing-svg)
 
-Code is how I think. Building is how I learn.
-Engineer by curiosity, developer by choice.
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archisman-mitra)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/im_archisman.m)
-![Profile Views](https://komarev.com/ghpvc/?username=archismanmitra&style=flat-square&color=0A66C2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archisman-mitra)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_archisman.m)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/archisman-mitra)
+![Profile Views](https://komarev.com/ghpvc/?username=archisman-mitra&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## About
+## 🧑‍💻 About Me
 
-Aspiring software developer with a focus on full stack development and AI driven systems. Committed to building strong computer science fundamentals through problem solving and practical learning, while gradually exploring electronics and embedded system projects.
+🎓 **B.Tech - ELectronics & Computer Science** student at Narula Institute of Technology, Kolkata  
+🌐 Focused on **full-stack web development** and AI-driven systems  
+🧠 Building strong CS fundamentals through consistent **problem solving**  
+⛓️ Explored **blockchain development** — built a smart contract on Stellar using Rust & Soroban SDK  
+🔌 Also tinkering with **Arduino & ESP32** on the electronics side  
+🤝 Open to collaborating on web dev, AI, or open-source projects  
+📬 Reach me on **[LinkedIn](https://www.linkedin.com/in/archisman-mitra)**
 
 ---
 
-## Tech Stack
+## 🎯 Currently Working On
 
-```
-Languages      C · C++ · Java · Python · JavaScript
-Frontend       React · Next.js · HTML5 · CSS3 · Tailwind
-Backend        Node.js · Express · Django
-Databases      MySQL · MongoDB · Supabase · SQLite
-AI / Data      NumPy · Pandas · Matplotlib · Scikit-learn
-Blockchain     Rust · Soroban SDK · Stellar
-Electronics    Arduino · ESP32    
-Tools          Git · GitHub · Power BI · VS Code
-```
+| Area | What | Status |
+|------|------|--------|
+| 📐 DSA | Grinding LeetCode problems in **Java** | 🔄 Ongoing |
+| 🐍 Python Backend | Learning **Django · Flask · FastAPI** | 🌱 In Progress |
+| 🌐 Frontend | Deepening **React & Next.js** patterns | 🔄 Ongoing |
+| ⛓️ Blockchain | Exploring **Soroban SDK** on Stellar | 🔬 Exploring |
 
+---
 
+## 🛠️ Tech Stack
 
-## Currently
+#### 💬 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 🔭 Building full-stack AI projects
-- 📚 Grinding DSA — Java / LeetCode
-- 🌱 Exploring backend architecture with Django and REST APIs
-- 🤝 Open to collaborations on web dev, AI, or open-source projects
+#### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### 🤖 AI / Data
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+#### ⛓️ Blockchain
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=stellar&logoColor=white)
+
+#### 🔌 Electronics
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+#### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=archisman-mitra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archisman-mitra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=archisman-mitra&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=archisman-mitra&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+---
+
+## ⚡ Fun Facts
+
+| 🌱 Open Source | 💻 DSA | 🔌 Electronics | ☕ Coffee |
+|:--------------:|:-------:|:--------------:|:---------:|
+| Learning by contributing | Java · LeetCode daily | Arduino & ESP32 tinkerer | Fuel for late-night commits |
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 ---
 
 <div align="center">
 
-*Open to internships and collaborations · [Let's connect](https://www.linkedin.com/in/archisman-mitra)*
+*Open to internships and collaborations*
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archisman-mitra)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
