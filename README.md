@@ -92,14 +92,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=archisman-mitra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archisman-mitra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-
 <br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=archisman-mitra&theme=tokyonight&hide_border=true" height="165" />
-
 </div>
 
 ---
@@ -134,6 +130,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archisman-mitra)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=130&amp;section=footer&amp;text=Thanks%20for%20visiting!&amp;fontSize=28&amp;fontColor=ffffff&amp;fontAlignY=45&amp;desc=Let's%20build%20something%20amazing%20together!&amp;descSize=14&amp;descAlignY=70&amp;descAlign=50" width="100%" />
 
 </div>
