@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Archisman%20Mitra&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Engineer%20by%20curiosity%20%E2%80%94%20Developer%20by%20choice&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=200&section=header&text=Archisman%20Mitra&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Engineer%20by%20curiosity%20%E2%80%94%20Developer%20by%20choice&descAlignY=58&descSize=18" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Code+is+how+I+think.+Building+is+how+I+learn.;Full+Stack+Dev+%7C+DSA+Grinder+%7C+Open+Source+Curious)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=F27121&center=true&vCenter=true&width=700&lines=Code+is+how+I+think.+Building+is+how+I+learn.;Full+Stack+Dev+%7C+DSA+Grinder+%7C+Open+Source+Curious)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archisman-mitra)
+![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_archisman.m)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/archisman-mitra)
-![Profile Views](https://komarev.com/ghpvc/?username=archisman-mitra&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=archisman-mitra&style=for-the-badge&color=F27121&label=PROFILE+VIEWS)
 
 </div>
 
@@ -23,7 +23,6 @@
 ⛓️ Explored **blockchain development** — built a smart contract on Stellar using Rust & Soroban SDK  
 🔌 Also tinkering with **Arduino & ESP32** on the electronics side  
 🤝 Open to collaborating on web dev, AI, or open-source projects  
-📬 Reach me on **[LinkedIn](https://www.linkedin.com/in/archisman-mitra)**
 
 ---
 
@@ -92,25 +91,33 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=archisman-mitra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archisman-mitra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=archisman-mitra&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archisman-mitra&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=archisman-mitra&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=archisman-mitra&theme=radical&hide_border=true" height="165" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=archisman-mitra&theme=radical&no-frame=true&row=1&column=7" />
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=archisman-mitra&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=archisman-mitra&theme=radical&hide_border=true&area=true" width="100%" />
 
 ---
 
-## ⚡ Fun Facts
+## 🐍 Contribution Snake
 
-| 🌱 Open Source | 💻 DSA | 🔌 Electronics | ☕ Coffee |
-|:--------------:|:-------:|:--------------:|:---------:|
-| Learning by contributing | Java · LeetCode daily | Arduino & ESP32 tinkerer | Fuel for late-night commits |
+<div align="center">
+<img src="https://raw.githubusercontent.com/archisman-mitra/archisman-mitra/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
 
 ---
 
@@ -118,7 +125,7 @@
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -130,6 +137,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archisman-mitra)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=130&amp;section=footer&amp;text=Thanks%20for%20visiting!&amp;fontSize=28&amp;fontColor=ffffff&amp;fontAlignY=45&amp;desc=Let's%20build%20something%20amazing%20together!&amp;descSize=14&amp;descAlignY=70&amp;descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F27121,50:E94057,100:8A2387&amp;height=150&amp;section=footer&amp;text=Thanks%20for%20visiting!&amp;fontSize=28&amp;fontColor=ffffff&amp;fontAlignY=32&amp;desc=If%20you%20find%20my%20work%20helpful%2C%20consider%20following%20me%20and%20starring%20%E2%AD%90%20my%20repos.%20Let%27s%20connect%20and%20build%20something%20amazing%20together%21%20%F0%9F%9A%80&amp;descSize=14&amp;descAlignY=58&amp;descAlign=50" width="100%" />
 
 </div>
