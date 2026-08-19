@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archisman-mitra)
-![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/archisman_06)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_archisman.m)
 ![Profile Views](https://komarev.com/ghpvc/?username=archisman-mitra&style=for-the-badge&color=F27121&label=PROFILE+VIEWS)
 
@@ -41,7 +41,6 @@
 
 #### 💬 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -58,19 +57,17 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 #### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### 🤖 AI / Data
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 #### ⛓️ Blockchain
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -78,7 +75,7 @@
 
 #### 🔌 Electronics
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 
 #### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -137,6 +134,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archisman-mitra)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F27121,50:E94057,100:8A2387&amp;height=150&amp;section=footer&amp;text=Thanks%20for%20visiting!&amp;fontSize=28&amp;fontColor=ffffff&amp;fontAlignY=32&amp;desc=If%20you%20find%20my%20work%20helpful%2C%20consider%20following%20me%20and%20starring%20%E2%AD%90%20my%20repos.%20Let%27s%20connect%20and%20build%20something%20amazing%20together%21%20%F0%9F%9A%80&amp;descSize=14&amp;descAlignY=58&amp;descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F27121,50:E94057,100:8A2387&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&fontAlignY=32&desc=Thanks%20for%20stopping%20by%20%E2%80%94%20a%20star%20%E2%AD%90%20would%20mean%20a%20lot!&descSize=18&descAlignY=58&descAlign=50" width="100%" />
 
 </div>
